@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720100299 source:d:\ashish_b\microcontroller\micro_workspace\dem stack\dem_stack1\main.c
+	<stdio.h>
+	<inttypes.h>
+
